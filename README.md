@@ -1,11 +1,11 @@
-### Olá, eu sou o Thulio Bandeira ✌️
+### Hello, i'm Thulio Bandeira✌️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thuliobandeiradev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__tobr/)
 
 ![Thulio GitHub stats](https://github-readme-stats.vercel.app/api?username=ThulioBandeira&show_icons=true&theme=dracula)
 
-## Tecnologias que uso no dia a dia:
+## Technologies I use on a daily basis:
 
 <div style= "display: inline_block"><br/>  
 <h2>Front-end:</h2>
@@ -37,9 +37,9 @@
 
 </div><br/>
 
-<p><cite>"A educação não é o aprendizado de fatos, mas o treinamento da mente para pensar" <br/>Einstein,Albert</cite></p>
+<p><cite>"Education is not the learning of facts, but the training of the mind to think." <br/>Einstein,Albert</cite></p>
 
-## Estudando:
+## Studying:
 <div style='display: inline-block'></br> 
 <img align='center'alt='PY'src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
 '>
@@ -57,12 +57,12 @@
 </br>
 </br>
 
-## Ranking das Linguagens:
+## Languages:
 
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThulioBandeira)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Contato:
+### Contact:
 ✉️ thuliao18@gmail.com
