@@ -3,7 +3,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thuliobandeiradev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__tobr/)
 
-![Thulio GitHub stats](https://github-readme-stats.vercel.app/api?username=ThulioBandeira&show_icons=true&theme=dracula)
 
 ## Technologies I use on a daily basis:
 
@@ -57,9 +56,10 @@
 </br>
 </br>
 
-## Languages:
+## GitHUB's Stats ⚡:
 
-</br>
+
+![Thulio GitHub stats](https://github-readme-stats.vercel.app/api?username=ThulioBandeira&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThulioBandeira)](https://github.com/anuraghazra/github-readme-stats)
 
