@@ -5,8 +5,6 @@
 
 ![Thulio GitHub stats](https://github-readme-stats.vercel.app/api?username=ThulioBandeira&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThulioBandeira)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Tecnologias que uso no dia a dia:
 
 <div style= "display: inline_block"><br/>  
@@ -57,6 +55,14 @@
 '>
 </div>
 </br>
+</br>
+
+## Ranking das Linguagens:
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThulioBandeira)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Contato:
 ✉️ thuliao18@gmail.com
