@@ -1,4 +1,5 @@
-### Hello, i'm Thulio Bandeira✌️
+## Hello, i'm Thulio Bandeira✌️
+### I'm brazilian guy passionate for Back-End Development, games, animes, exacts science and coffee
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thuliobandeiradev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__tobr/)
